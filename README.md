@@ -5,7 +5,7 @@ a Json server for frontend assigment. It's live and demo can check from this lin
 https://json-server-yea.herokuapp.com/
 
 
-If you want to launch it on your local. Just clone repo and 
+If you want to launch it on your local. Just clone repo, install npm then 
 
 ```
 yarn start
